@@ -1,0 +1,8 @@
+node_modules
+dist
+
+# JS Config files
+**/*.config.js
+
+# Generated scss definition files
+**/*.scss.d.ts
